@@ -1,0 +1,1 @@
+﻿( (Math.round(Math.random() )) )?alert('Выпал орел'):alert('Выпала решка');
